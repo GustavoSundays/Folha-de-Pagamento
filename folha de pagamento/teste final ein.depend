@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1560966822 source:c:\users\wmw\documents\projetos\trabalho final programação\teste final ein\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+	"tela.h"
+	"cursor.h"
+
+1560966814 c:\users\wmw\documents\projetos\trabalho final programação\teste final ein\functions.h
+
+1560787926 c:\users\wmw\documents\projetos\trabalho final programação\teste final ein\tela.h
+	"cursor.h"
+
+1560787957 c:\users\wmw\documents\projetos\trabalho final programação\teste final ein\cursor.h
+	<windows.h>
+
